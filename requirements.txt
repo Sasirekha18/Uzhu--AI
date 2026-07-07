@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+requests
+google-cloud-bigquery
+google-cloud-aiplatform
+db-dtypes
+vertexai
